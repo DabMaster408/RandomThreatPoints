@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Random Threat Points</name>
+	<author>YourName</author>
+	<url />
+	<supportedVersions><li>1.0</li></supportedVersions>
+	<description>
+	Randomizes threat points between 35 and 20000. Be careful what you wish for.
+	</description>
+</ModMetaData>
